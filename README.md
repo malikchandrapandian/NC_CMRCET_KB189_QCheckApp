@@ -1,2 +1,2 @@
 # SIH2020 
-# Smart India Hechathon
+# Smart India Hackathon
